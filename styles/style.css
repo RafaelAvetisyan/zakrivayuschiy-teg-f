@@ -12,6 +12,7 @@
   background-attachment: fixed;
   margin: auto;
   font-variation-settings: "wght" var(--main-font-weight);
+  background-size: cover;
 }
 
 .header {
@@ -216,7 +217,7 @@
 
 .dialog__button {
   inline-size: 100%;
-  padding: 12.5px;
+  padding: 9px 17px;
   text-transform: uppercase;
 }
 
